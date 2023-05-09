@@ -2,7 +2,7 @@
 
 separate repositories for each semester:
 
-- 02-year: ([syllabus](./EXTC_02-Year_2019-C-Scheme.pdf))
+- 02-year: ([EXTC 02-Year Syllabus REV-2019 'C'-Scheme](./EXTC_02-Year_2019-C-Scheme.pdf))
     1. [03-sem](./) 
     2. [04-sem](./)
 
